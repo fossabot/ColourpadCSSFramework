@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FColourpadCSSFramework.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FColourpadCSSFramework?ref=badge_shield)
+
 ColourpadCSSFramework
 =====================
 
@@ -19,3 +21,7 @@ MORE
 =====================
 
 More here: http://tinybigideas.com/web-applications/colourpad-css-framework/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FColourpadCSSFramework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FColourpadCSSFramework?ref=badge_large)
